@@ -4,7 +4,14 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
+    <!-- Deep obsidian slate circular base -->
     <path
-        android:fillColor="#4F46E5"
-        android:pathData="M0,0h108v108h-108z"/>
+        android:fillColor="#0D1117"
+        android:pathData="M0,0h108v108h-108z" />
+    
+    <!-- Outer glow accent ring -->
+    <path
+        android:strokeColor="#21262D"
+        android:strokeWidth="1.5"
+        android:pathData="M54,12 a42,42 0 1,0 0.1,0 z" />
 </vector>
