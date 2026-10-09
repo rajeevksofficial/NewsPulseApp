@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewsPulse</string>
+    <string name="breaking_news">BREAKING NEWS</string>
+    <string name="search_news_hint">Search headlines &amp; topics…</string>
+    <string name="all_feeds">All Channels</string>
+    <string name="toi">Times of India</string>
+    <string name="ht">Hindustan Times</string>
+    <string name="ndtv">NDTV News</string>
+    <string name="thehindu">The Hindu</string>
+    <string name="bbc">BBC News</string>
+    <string name="saved">📑 Saved</string>
+    <string name="share_digest">Share Daily Digest</string>
+    <string name="no_news_found">No articles found</string>
+</resources>
